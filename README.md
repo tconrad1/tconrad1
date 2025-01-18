@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+##🌱 I’m currently learning some more advanced React concepts and refreshing my Nodejs knowledge 
+##😄 Pronouns: He/Him
+##⚡ Fun fact: Humanity invented the nuke before the compound bow 
+##📫 How to reach me: thomaswconrad2004@gmail.com 
+## Thanks for reading, have a great day!
 <!--
 **tconrad1/tconrad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
