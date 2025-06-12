@@ -1,4 +1,5 @@
 ## Hi there 👋 
+## I am a rising junior at the University of Maryland, majoring in Computer Science
 ##🌱 I’m currently learning some more advanced React concepts and refreshing my Nodejs knowledge \
 ##😄 Pronouns: He/Him \
 ##⚡ Fun fact: Humanity invented the nuke before the compound bow \
