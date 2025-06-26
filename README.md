@@ -1,6 +1,6 @@
 ## Hi there 👋 I am a rising junior at the University of Maryland, majoring in Computer Science
 ##🌱 I’m currently learning some more advanced React concepts and refreshing my Nodejs knowledge \
-##😄 Pronouns: He/Him \
+##😄 Pronouns: He/Him/They/Them \
 ##⚡ Fun fact: Humanity invented the nuke before the compound bow \
 ##📫 How to reach me: thomaswconrad2004@gmail.com 
 ## Thanks for reading, have a great day!
