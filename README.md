@@ -1,5 +1,5 @@
 ## Hi there 👋 I am a rising senior at the University of Maryland, majoring in Computer Science
-##🌱 I’m currently learning some more advanced React concepts and refreshing my Nodejs knowledge \
+##🌱 I’m currently working on some machine learning related projects  \
 ##😄 Pronouns: He/Him/They/Them \
 ##⚡ Fun fact: Humanity invented the nuke before the compound bow \
 ##📫 How to reach me: thomaswconrad2004@gmail.com 
